@@ -2,12 +2,12 @@
   "admins": ["USER1_ID", "USER2_ID"],
   "autoreplies": [
     [["hi", "hello"], "Hello world!"],
-    [["bot"], "At your service!"]
+    [["bot"], "At your service, but seriously use  tabs!"]
   ],
   "autoreplies_enabled": true,
   "commands_admin": ["quit", "config"],
   "commands_enabled": true,
-  "commands_aliases": ["/bot", "/hal", "/cylon", "/skynet", "/terminator"],
+  "commands_aliases": ["/bot"],
   "forwarding_enabled": true,
   "conversations": {
     "CONV1_ID": {
